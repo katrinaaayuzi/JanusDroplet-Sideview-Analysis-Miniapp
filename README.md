@@ -1,2 +1,3 @@
 # JanusDroplet-Sideview-Analysis-Miniapp
 This customized MATLAB mini-app is developed to extract specific morphological and geometric parameters from sideview images of Janus droplets, including θ_HC, θ_FC, θ_N, θ_SA, SAR, VR_N and V_TN. 
+Following the automated acquisition and saving of sideview images, the user launched the mini-app and entered the refractive indices for each droplet phase. The selected image was then opened within the program, and five reference points were manually clicked along the droplet interfaces. Based on these inputs, the application automatically calculates the desired parameters and stores the results. 
